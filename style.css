@@ -11,4 +11,5 @@ div {
     background-color: blueviolet;
     width: 400px;
     height: 300px;
+    border: solid 10px gold;
 }
