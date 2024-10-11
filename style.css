@@ -1,6 +1,5 @@
 #eerste-titel {
     color: rgb(34, 20, 26);
-    background-color: antiquewhite;
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-weight: 900;
 
@@ -8,10 +7,10 @@
 }
 
 div {
-    background-color: blueviolet;
+    background-color: lightblue;
     width: 400px;
     height: 300px;
-    border: solid 10px gold;
+    border: solid 1px;
     font-size: large;
     border-radius: 15px;
 }
