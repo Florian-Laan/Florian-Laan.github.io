@@ -9,11 +9,10 @@
 
 div {
     background-color: lightcyan;
-    width: 400px;
-    height: 300px;
-    border: solid 3px;
+    width: 150px;
+    height: 100px;
     font-size: large;
-    border-radius: 15px;
+    border-radius: 30px;
 }
 
 header {
