@@ -7,10 +7,10 @@
 }
 
 div {
-    background-color: lightblue;
+    background-color: lightcyan;
     width: 400px;
     height: 300px;
-    border: solid 1px;
+    border: solid 3px;
     font-size: large;
     border-radius: 15px;
 }
