@@ -13,6 +13,7 @@ div{
 }
 
 header{
+    display: flex;
 }
 
 H1{
