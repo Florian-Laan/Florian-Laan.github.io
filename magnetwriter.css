@@ -8,6 +8,7 @@ body{
     background-color: black;
     height: 50;
     width: 150;
+    margin: 40px;
 }
 
 #Magnetwriter{
@@ -16,6 +17,7 @@ body{
     background-color: black;
     height: 130;
     width: 200;
+    margin: 40px;
 }
 
 #tekstje{
@@ -24,6 +26,7 @@ body{
     background-color: black;
     height: 400;
     width: 300;
+    margin: 40px;
 
 }
 
@@ -33,10 +36,12 @@ body{
     background-color: black;
     height: 80;
     width: 150;
+    margin: 40px;
 }
 
 #plaatje-2{
     border-radius: 30px;
     height: 400;
     width: 200;
+    margin: 40px;
 }
