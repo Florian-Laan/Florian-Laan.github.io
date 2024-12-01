@@ -59,9 +59,12 @@ footer{
 
 #eerste-deel{
     width: 550;
+    display: flex;
+    flex-direction: row;
 }
 
 #tweede-deel{
     width: 350;
     display: flex;
+    flex-direction: row;
 }
