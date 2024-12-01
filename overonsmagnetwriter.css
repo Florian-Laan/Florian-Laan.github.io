@@ -35,6 +35,8 @@ footer{
     height: 80;
     width: 200;
     margin: 40px;
+    text-decoration: underline;
+    text-decoration-color: #b3944b;
 }
 
 #plaatje{

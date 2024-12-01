@@ -40,6 +40,8 @@ footer{
     height: 80;
     width: 150;
     margin: 40px;
+    text-decoration: underline;
+    text-decoration-color: #b3944b;
 }
 
 #plaatje-2{
