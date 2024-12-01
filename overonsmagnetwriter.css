@@ -40,4 +40,6 @@ body{
 }
 
 #wrapper{
+    width: 900px;
+    margin: auto;
 }
