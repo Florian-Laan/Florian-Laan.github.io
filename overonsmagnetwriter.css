@@ -37,6 +37,7 @@ footer{
     margin: 40px;
     text-decoration: underline;
     text-decoration-color: #b3944b;
+    cursor: pointer;
 }
 
 #plaatje{
