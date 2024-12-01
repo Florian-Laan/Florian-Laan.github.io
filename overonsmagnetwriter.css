@@ -55,10 +55,14 @@ footer{
     width: 550px;
     display: flex;
     flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
 }
 
 #tweede-deel{
     width: 350px;
     display: flex;
     flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
 }
