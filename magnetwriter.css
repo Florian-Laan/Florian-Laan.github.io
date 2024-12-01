@@ -45,3 +45,8 @@ body{
     width: 200;
     margin: 40px;
 }
+
+#wrapper{
+    width: 900px;
+    margin: auto;
+}
