@@ -56,7 +56,6 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    align-items: stretch;
 }
 
 #tweede-deel{
@@ -64,5 +63,8 @@ footer{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    align-items: stretch;
+}
+
+a:link{
+    color: #b3944b;
 }
