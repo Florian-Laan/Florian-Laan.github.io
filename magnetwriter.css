@@ -12,6 +12,7 @@ body{
     height: 50;
     width: 150;
     margin: 40px;
+    text-align: center;
 }
 
 header{
@@ -21,6 +22,7 @@ header{
     height: 130;
     width: 200;
     margin: 40px;
+    text-align: center;
 }
 
 article{
@@ -30,6 +32,7 @@ article{
     height: 400;
     width: 300;
     margin: 40px;
+    text-align: center;
 
 }
 
@@ -43,12 +46,14 @@ footer{
     text-decoration: underline;
     text-decoration-color: #b3944b;
     cursor: pointer;
+    text-align: left;
 }
 
 #plaatje-2{
     border-radius: 50px;
     width: 200;
     margin: 40px;
+    text-align: left;
 }
 
 #wrapper{
@@ -57,7 +62,9 @@ footer{
 }
 
 #eerste-deel{
+    width: 550;
 }
 
 #tweede-deel{
+    width: 350;
 }
