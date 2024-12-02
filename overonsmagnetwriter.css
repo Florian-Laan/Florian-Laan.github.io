@@ -46,16 +46,19 @@ footer{
 #wrapper{
     width: 900px;
     margin: auto;
+    display: flex;
 }
 
 #eerste-deel{ 
     width: 550px;
     display: flex;
+    flex-direction: column;
 }
 
 #tweede-deel{
     width: 350px;
     display: flex;
+    flex-direction: column;
 }
 
 a{
