@@ -44,6 +44,10 @@ footer{
     text-align: left;
 }
 
+img{
+    width: 150;
+}
+
 #wrapper{
     width: 900px;
     margin: auto;
