@@ -39,8 +39,12 @@ footer{
 
 #plaatje-2{
     border-radius: 50px;
-    width: 100%;
+    width: 200px;
     margin: 40px;
+}
+
+img{
+    border-radius: 50px;
 }
 
 #wrapper{
