@@ -54,15 +54,11 @@ footer{
 #eerste-deel{ 
     width: 550px;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
 }
 
 #tweede-deel{
     width: 350px;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
 }
 
 a{
