@@ -46,19 +46,19 @@ img{
 }
 
 #wrapper{
-    width: 900px;
+    width: 100%;
     margin: auto;
     display: flex;
 }
 
 #eerste-deel{
-    width: 550px;
+    width: 60%;
     display: flex;
     flex-direction: column;
 }
 
 #tweede-deel{
-    width: 350px;
+    width: 40%;
     display: flex;
     flex-direction: column;
 }
