@@ -29,13 +29,10 @@ article{
 }
 
 footer{
-    color: #b3944b;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     height: 60;
     width: 150;
     margin: 40px;
-    text-decoration: underline;
-    text-decoration-color: #b3944b;
     cursor: pointer;
     text-align: left;
 }
@@ -63,4 +60,5 @@ footer{
 
 a{
     color: #b3944b;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
