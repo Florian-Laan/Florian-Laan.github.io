@@ -12,7 +12,7 @@ body{
     height: 60;
     width: 150;
     margin: 40px;
-    text-align: center;
+    text-align: left;
 }
 
 header{
@@ -47,7 +47,7 @@ footer{
 
 #plaatje-2{
     border-radius: 50px;
-    width: 200;
+    width: 300;
     margin: 40px;
     text-align: left;
 }
@@ -71,4 +71,8 @@ footer{
     flex-direction: row;
     justify-content: flex-start;
     align-items: stretch;
+}
+
+a{
+    color: #b3944b;
 }
