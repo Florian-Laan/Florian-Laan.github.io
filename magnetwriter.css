@@ -39,14 +39,12 @@ footer{
 
 #plaatje-2{
     border-radius: 50px;
-    width: 150px;
+    width: 50%;
     margin: 40px;
-    text-align: left;
 }
 
 img{
     width: 150px;
-    margin: auto;
 }
 
 #wrapper{
